@@ -57,9 +57,9 @@ public class JugadorCampo extends Futbolista{
 		this.posicion=lee.nextLine();
 		System.out.println("Ingrese la fuerza de tiro del jugador: ");
 		this.fuerzaTiro=lee.nextInt();
-		System.out.println("Ingrese la precision de pases del portero (0-100): ");
+		System.out.println("Ingrese la precision de pases del jugador (0-100): ");
 		this.precisionPases=lee.nextInt();
-		System.out.println("Ingrese el estado fisico del portero (0-100): ");
+		System.out.println("Ingrese el estado fisico del jugador (0-100): ");
 		this.estadoFisico=lee.nextInt();
 		
 	}
