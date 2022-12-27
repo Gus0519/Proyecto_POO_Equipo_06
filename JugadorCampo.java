@@ -1,4 +1,3 @@
-package clases;
 import gui.Interfaz;
 
 public class JugadorCampo extends Futbolista{
