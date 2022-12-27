@@ -46,7 +46,7 @@ public class PruebaAlineacion {
 		}
 		
 		p1.mostrarEstadisticas();
-		JugadorCampo j1=new JugadorCampo();
+		//JugadorCampo j1=new JugadorCampo();
 	}
 
 }
