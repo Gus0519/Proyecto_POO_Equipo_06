@@ -1,5 +1,3 @@
-package clases;
-
 public class JugadorPortero extends Futbolista{
 	
 	private float altura;
