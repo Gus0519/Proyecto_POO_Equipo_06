@@ -52,4 +52,3 @@ public abstract class Futbolista extends Persona{
 	}
 	public abstract void mostrarEstadisticas();
 }
-
