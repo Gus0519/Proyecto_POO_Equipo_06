@@ -1,5 +1,3 @@
-package clases;
-
 public abstract class Futbolista extends Persona{
 	private int numero;
 	private String valorActual;
