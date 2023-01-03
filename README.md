@@ -2,7 +2,7 @@
 
 # Integrantes del equipo:
   Cuevas Hernández Yahir
-  De la Rosa Lara Gustavo
+  \nDe la Rosa Lara Gustavo
   Martínez Bravo Daniela
   Pelaez Semprún Diego Eduardo
 # Grupo:
